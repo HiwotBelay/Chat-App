@@ -231,7 +231,7 @@ const ChatInterface = ({ onBack }) => {
       }
     });
 
-    // Clean up listeners
+    // Clean up listeners like recieve_message
     return () => {
       socket.off("receive_message");
       socket.off("chat_history");
