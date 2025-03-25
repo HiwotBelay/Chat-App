@@ -21,7 +21,7 @@ const WelcomePage = ({ onStart }) => {
       {/* Overlay for better readability */}
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
-      {/* Floating Particles */}
+      {/* Floating Particles like the starts*/}
       <div className="absolute inset-0 z-10">
         {[...Array(20)].map((_, i) => (
           <div
