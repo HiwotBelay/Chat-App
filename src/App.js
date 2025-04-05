@@ -18,7 +18,7 @@ const WelcomePage = ({ onStart }) => {
         backgroundPosition: "center",
       }}
     >
-      {/* Overlay for better readability */}
+      {/* Overlay for better and clear readability */}
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       {/* Floating Particles like the starts*/}
