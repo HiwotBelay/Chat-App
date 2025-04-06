@@ -440,7 +440,7 @@ const GroupChatInterface = ({ onBack }) => {
       {/* Overlay for better readability */}
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
-      {/* Back Arrow for navigation*/}
+      {/* Back Arrow for navigation purpose*/}
       <button
         onClick={onBack}
         className="absolute top-6 left-6 text-white hover:text-gray-300 transition-all duration-300 z-30"
