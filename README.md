@@ -8,3 +8,6 @@ A real-time chat application built with React, Node.js, and Socket.io. Features 
 - Typing indicators
 - Clear chat history
 - Delete messages
+
+
+-------------
